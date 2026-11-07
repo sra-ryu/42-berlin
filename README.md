@@ -23,7 +23,7 @@ C programming languages, pointers and manual memory management (`malloc`/`free`)
  
 ---
 
-(korean ver.)
+(Korean ver.)
 
 # 42 Berlin
 
